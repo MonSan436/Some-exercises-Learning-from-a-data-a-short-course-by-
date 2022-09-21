@@ -4,5 +4,6 @@ The solutions are written in spanish but I'm sure that anybody will understand t
 
 This is part of a short course that I took in the fall of 2021 offered by the National University of Colombia.
 
-Here are notebooks for the first chapter: [Colab1](https://colab.research.google.com/drive/1OVLSPbicpCALrSG2jiwAknpK0dCilOWS?usp=sharing), [Colab2](https://colab.research.google.com/drive/170NP0xGLJruln30vK3G_Wilc5_pvuhQD?usp=sharing)
-Here for the second chapter: [Colab3](https://colab.research.google.com/drive/1qzVOzUE_Cfk4IeD3acMfwCCAgYTs2KOM?usp=sharing)
+-Here are notebooks for the first chapter: [Colab1](https://colab.research.google.com/drive/1OVLSPbicpCALrSG2jiwAknpK0dCilOWS?usp=sharing), [Colab2](https://colab.research.google.com/drive/170NP0xGLJruln30vK3G_Wilc5_pvuhQD?usp=sharing)
+
+-Here for the second chapter: [Colab3](https://colab.research.google.com/drive/1qzVOzUE_Cfk4IeD3acMfwCCAgYTs2KOM?usp=sharing)
